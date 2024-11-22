@@ -1,4 +1,3 @@
-#Movies List
 <template>
   <h6>Listado de Películas</h6>
   <div class="movies-list">
